@@ -12,5 +12,10 @@ Two classes I consolidated the CSS with were
 
     .benefit-title to consolidate teh benefit section to the right
 
+I was asked for a screenshot so here are some of the CSS edits I did
+
+
+![CSSedits](/assets/images/CSSEDITEX.png)
+
 We also are asked to deploy to a live page on github.
 My URL: https://klydesign.github.io/Module1-Challange1/
